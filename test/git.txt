@@ -1,0 +1,8 @@
+-Muốn thiết lập tên người dùng / địa chỉ email
+ git config --global user.name <username>
+ git config --global user.email <mailaddress>
+
+-push code
+git add .
+git commit -m "điền nội dung commit vào đây"
+git push origin master
