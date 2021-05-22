@@ -1,0 +1,35 @@
+-plugin đã cài:
+
++Laravel helper Completions
+
++Phpcs: Package kiểm tra và sửa chữa những lỗi trong phong cách lập trình (convention).
+
++Emmet: Công cụ cải thiện tốc độ và workflow của lập trình viên web. Emmet hỗ trợ viết code nhanh cho HTML và CSS dựa trên snippets (những đoạn mã dựng sẵn cho việc tái sử dụng nhiều lần).
+
++Laravel Blade Highlighter: Hỗ trợ hiển thị cú pháp Blade của Laravel.
+
++HTML-CSS-JS Prettify: Định dạng lại code HTML, CSS, Javascript, JSON.
+
++Laravel Forms Bootstrap Snippets: Công cụ hỗ trợ viết code nhanh cho Laravel Collective Forms theo chuẩn Twitter’s Bootstrap 3.
+
+-Component:
+
++Material-UI: Là tập hợp các components của React được thiết kế theo chuẩn Material Design của Google.
+
++React Bootstrap: Bootstrap 3 components xây dựng trên React.
+
++Grommet: React UI component đẹp, tập trung chủ yếu vào trải nghiệm cần thiết.
+
++Ant Design React: React components phổ biến theo hướng dẫn và thông số kỹ thuật thiết kế Ant, được viết bằng typescript và hỗ trợ luồng công việc phong phú.
+
++Reactstrap: Đây là thư viện đơn giản cho React bootstrap 4.
+
+-Module phổ biến:
+
++Module tìm kiếm: giúp cho người dùng có thể tìm kiếm thông tin 1 cách nhanh chóng, thông tường module này thiết kế theo 2 loại: module tìm kiếm nhanh và module tìm keiesm nâng cao.
+
++Module logo: giúp cho bạn có thể dễ dàng thêm logo hay chỉnh sửa logo cho website.
+
++Module menu: đây là module điều hướng giúp người truy cập website đi đến các nhóm tin, nội dung, đây là module được thiết kế theo nhiều cấp độ.
+
++Module map: là module giúp cho khách hàng có thể tìm đường đi trên bản đồ, thể hiện sự chuyên nghiệp phục vụ khách hàng.
